@@ -23,3 +23,17 @@ One day I am going to make the Onions cry :)
     ```
     - A compilation of simple chess algorithms :)
     - To view - [link](https://justyouraverageonion.github.io/ProjectAthena)
+  - **Project Horus**
+    ```
+    Horus is the ultimate god of mathematics, as his eye represents the basis of all egyptian mathematics 
+    as we know it - the unit fractions. 
+    ```
+    - A collection of mathematical games :)
+    - To view - [link](https://justyouraverageonion.github.io/ProjectHorus)
+  - **Project Cronus**
+    ```
+    Cronus was the King of the Titanes and the god of time, in particular time when viewed as a 
+    destructive, all-devouring force.
+    ```
+    - A collection of Time Complexities of some of the Sorting Algorithms :)
+    - To view - [link](https://justyouraverageonion.github.io/ProjectCronus)
