@@ -35,5 +35,5 @@ One day I am going to make the Onions cry :)
     Cronus was the King of the Titanes and the god of time, in particular time when viewed as a 
     destructive, all-devouring force.
     ```
-    - A collection of Time Complexities of some of the Sorting Algorithms :)
+    - A collection of some Algorithms for some well known problems whose time complexities are visualized ?!? -.-
     - To view - [link](https://justyouraverageonion.github.io/ProjectCronus)
