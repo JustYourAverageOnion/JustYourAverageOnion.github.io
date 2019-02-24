@@ -37,3 +37,10 @@ One day I am going to make the Onions cry :)
     ```
     - A collection of some Algorithms for some well known problems whose time complexities are visualized ?!? -.-
     - To view - [link](https://justyouraverageonion.github.io/ProjectCronus)
+  - **Project Artemis**
+    ```
+    Artemis learnt the art of midwifery and helped her mom to give birth to her twin brother who was 9 days 
+    late due to Hera's jelousy comming in between the original process aided by Hera's daughter Eileithyia.
+    ```
+    - A collection of mostly single page websites inspired by live websites.
+    - To view - [link](https://justyouraverageonion.github.io/ProjectArtemis)
