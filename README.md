@@ -44,3 +44,15 @@ One day I am going to make the Onions cry :)
     ```
     - A collection of mostly single page websites inspired by live websites.
     - To view - [link](https://justyouraverageonion.github.io/ProjectArtemis)
+  - **Project Eunomia**
+    ```
+    One of the HORAE, she ensures good order, peace and a law-abiding society.
+    ```
+    - A collection of 30/100 day challenges and my take on them on mostly front end techs
+    - To view - [link](https://justyouraverageonion.github.io/ProjectEunomia)
+  - **Project Half Blood Camp**
+    ```
+    A camp for the demi gods to improve on their talents.
+    ```
+    - A random collection of entries to the Free Code Camp Curriculum.
+    - To view - [link](https://justyouraverageonion.github.io/ProjectHalfBloodCamp)
